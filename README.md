@@ -1,0 +1,2 @@
+# Cocktails!
+This repository contains a collection of cocktails and cocktail related items e.g. modifiers and base spirits. The list is small at the moment, but as I find new and interesting recipes, I will add them here.
